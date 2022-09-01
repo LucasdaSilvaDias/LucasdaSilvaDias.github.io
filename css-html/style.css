@@ -237,6 +237,7 @@ header{
     font-family: var(--font-primary);
     font-size: 3rem;
     border-bottom: solid 3px;
+    padding-bottom: 1rem;
 }
 
 .conhecimento-header{

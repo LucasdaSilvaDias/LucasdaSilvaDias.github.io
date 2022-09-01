@@ -126,6 +126,7 @@ header{
     top: 0; 
     right: -20rem;
     transition: all 1s;
+    text-align: center;
 
 }
 
@@ -259,4 +260,15 @@ header{
 .conhecimento-text{
     font-family: var(--font-primary);
     margin-top: 1rem;
+}
+
+
+.icon-conhecimento{
+    padding-right: 8px;
+}
+
+.motor-button{
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
 }
